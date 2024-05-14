@@ -1,4 +1,3 @@
-# DISNEYPLUS
 - DOMAIN,cdn.registerdisney.go.com,DISNEYPLUS
 - DOMAIN,disney.api.edge.bamgrid.com,DISNEYPLUS
 - DOMAIN,disney.connections.edge.bamgrid.com,DISNEYPLUS
